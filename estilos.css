@@ -22,8 +22,8 @@ header a {
     color: white;
 }
 section {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 .portada {
     padding-top: 40px;
@@ -103,6 +103,21 @@ i {
     background-color: rgb(51, 51, 51);
     padding: 10px 10px;
     border-radius: 15px;
-    border: 5px;´
+    border: 5px;
+}
+a h3 {
+    text-decoration: none;
+    color: black;
+}
+h3 {
+    font-family: 'bebas neue';
+    font-size: 30px;
+}
+.fondo {
+    background: linear-gradient(rgb(209 209 209 / 30%), rgb(211 255 229 / 30%));
+    border-radius: 20px;
 
+}
+.espacio {
+    padding: 30px 30px;
 }
